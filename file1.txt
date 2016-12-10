@@ -1,4 +1,4 @@
 file1 bla conflict bla - resolved :)
 bla bla
 tut 1 added to file1
-bla bla again.
+still file 1...
